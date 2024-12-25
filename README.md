@@ -2,10 +2,10 @@
 A game integrated with a min-max algorithm to make more accurate decisions based on result overviews.
 
 ## Features
-Recursive Backtracking
-Decision Tree Evaluation
-Optimize Performance
-Game State Management
+Recursive Backtracking<br>
+Decision Tree Evaluation<br>
+Optimize Performance<br>
+Game State Management<br>
 
 <kbd>Link:</kbd> [Play](https://haksham.github.io/Tic-Tac-Toe-proj/)
 
