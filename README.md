@@ -10,7 +10,7 @@ Game State Management<br>
 <kbd>Link:</kbd> [Play](https://haksham.github.io/Tic-Tac-Toe-proj/)
 
 ## About
-The Mini-Max algorithm is a fundamental decision-making technique used in game theory and artificial intelligence. In this paper, we present the implementation of the Mini-Max algorithm in a general context to showcase its functionality and its application to the classic game of Tic-Tac-Toe. We aim to determine the best outcome that the maximizer or minimizer can achieve in both scenarios. Through this work, we demonstrate the versatility and effectiveness of the Mini-Max algorithm in various two-player zero-sum games
+The Mini-Max algorithm is a fundamental decision-making technique used in game theory and artificial intelligence. We present the implementation of the Mini-Max algorithm in a general context to showcase its functionality and its application to the classic game of Tic-Tac-Toe. We aim to determine the best outcome that the maximizer or minimizer can achieve in both scenarios. Through this work, we demonstrate the versatility and effectiveness of the Mini-Max algorithm in various two-player zero-sum games
 
 # Requirements
 
